@@ -1,0 +1,21 @@
+standard_variable = 'variable'
+
+# Data Types 
+Booleans
+Symbols
+Numbers
+Strings
+Arrays
+Hashes
+
+car_1 = { wheels: 4, max_speed: 200, color: 'green' }
+car_2 = { wheels: 4, max_speed: 220, color: 'green' }
+
+We would ordinarily have written our tests first, 
+then written code to make them pass. Why?
+
+Because it is easier to know what we are looking for and what outcome we want.
+It acts as a mini user story. Guides the process rather than modifying along the way. 
+
+car_3.paint("red")
+car_3 = Car.new
